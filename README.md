@@ -1,2 +1,2 @@
 # shsh-blobs-backup
-SHSH Blobs backup for my iPad 4,4
+SHSH Blobs backup for my iOS devices
